@@ -1,0 +1,119 @@
+{
+  "countries": [
+    {
+      "nameEn": "Canada",
+      "nameRus": "Канада",
+      "numericCode": "1",
+      "currencyCode": "CAD",
+      "cities": [
+        {
+          "nameEn": "Toronto",
+          "nameRus": "Торонто",
+          "population": 2503281
+        },
+        {
+          "nameEn": "Montreal",
+          "nameRus": "Монреаль",
+          "population": 1620693
+        },
+        {
+          "nameEn": "Ottava",
+          "nameRus": "Оттава",
+          "population": 812129
+        }
+      ]
+    },
+    {
+      "nameEn": "Greenland",
+      "nameRus": "Гренландия",
+      "numericCode": "299",
+      "currencyCode": "DKK",
+      "cities": [
+        {
+          "nameEn": "Aasiaat",
+          "nameRus": "Аасиаат",
+          "population": 2948
+        },
+        {
+          "nameEn": "Ivittuut",
+          "nameRus": "Ивиттуут",
+          "population": 60
+        },
+        {
+          "nameEn": "Ilulissat",
+          "nameRus": "Илулиссат",
+          "population": 4528
+        }
+      ]
+    },
+    {
+      "nameEn": "Romania",
+      "nameRus": "Румыния",
+      "numericCode": "40",
+      "currencyCode": "RON",
+      "cities": [
+        {
+          "nameEn": "Bucharest",
+          "nameRus": "Бухарест",
+          "population": 2158758
+        },
+        {
+          "nameEn": "Constanca",
+          "nameRus": "Констанца",
+          "population": 283872
+        },
+        {
+          "nameEn": "Arad",
+          "nameRus": "Арад",
+          "population": 172824
+        }
+      ]
+    },
+    {
+      "nameEn": "Norway",
+      "nameRus": "Норвегия",
+      "numericCode": "47",
+      "currencyCode": "NOK",
+      "cities": [
+        {
+          "nameEn": "Oslo",
+          "nameRus": "Осло",
+          "population": 538411
+        },
+        {
+          "nameEn": "Drammen",
+          "nameRus": "Драммен",
+          "population": 57759
+        },
+        {
+          "nameEn": "Sandefjord",
+          "nameRus": "Саннефьорд",
+          "population": 41897
+        }
+      ]
+    },
+    {
+      "nameEn": "Italy",
+      "nameRus": "Италия",
+      "numericCode": "39",
+      "currencyCode": "EUR",
+      "cities": [
+        {
+          "nameEn": "Rome",
+          "nameRus": "Рим",
+          "population": 2870493
+        },
+        {
+          "nameEn": "Milan",
+          "nameRus": "Милан",
+          "population": 1331586
+        },
+        {
+          "nameEn": "Naples",
+          "nameRus": "Неаполь",
+          "population": 989598
+        }
+      ]
+    }
+  ]
+}

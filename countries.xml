@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<countries>
+    <coutry number="1">
+        <name_en>Canada</name_en>
+        <name_rus>Канада</name_rus>
+        <numeric_code>1</numeric_code>
+        <currency_code>CAD</currency_code>
+        <cities>
+            <city number="1">
+                <name_en>Toronto</name_en>
+                <name_rus>Торонто</name_rus>
+                <population>2503281</population>
+            </city>
+            <city number="2">
+                <name_en>Montreal</name_en>
+                <name_rus>Монреаль</name_rus>
+                <population>1620693</population>
+            </city>
+            <city number="3">
+                <name_en>Ottava</name_en>
+                <name_rus>Оттава</name_rus>
+                <population>812129</population>
+            </city>
+        </cities>
+    </coutry>
+    <coutry number="2">
+        <name_en>Greenland</name_en>
+        <name_rus>Гренландия</name_rus>
+        <numeric_code>299</numeric_code>
+        <currency_code>DKK</currency_code>
+        <cities>
+            <city number="1">
+                <name_en>Aasiaat</name_en>
+                <name_rus>Аасиаат</name_rus>
+                <population>2948</population>
+            </city>
+            <city number="2">
+                <name_en>Ivittuut</name_en>
+                <name_rus>Ивиттуут</name_rus>
+                <population>60</population>
+            </city>
+            <city number="3">
+                <name_en>Ilulissat</name_en>
+                <name_rus>Илулиссат</name_rus>
+                <population>4528</population>
+            </city>
+        </cities>
+    </coutry>
+    <coutry number="3">
+        <name_en>Romania</name_en>
+        <name_rus>Румыния</name_rus>
+        <numeric_code>40</numeric_code>
+        <currency_code>RON</currency_code>
+        <cities>
+            <city number="1">
+                <name_en>Bucharest</name_en>
+                <name_rus>Бухарест</name_rus>
+                <population>2158758</population>
+            </city>
+            <city number="2">
+                <name_en>Constanca</name_en>
+                <name_rus>Констанца</name_rus>
+                <population>283872</population>
+            </city>
+            <city number="3">
+                <name_en>Arad</name_en>
+                <name_rus>Арад</name_rus>
+                <population>172824</population>
+            </city>
+        </cities>
+    </coutry>
+    <coutry number="4">
+        <name_en>Norway</name_en>
+        <name_rus>Норвегия</name_rus>
+        <numeric_code>47</numeric_code>
+        <currency_code>NOK</currency_code>
+        <cities>
+            <city number="1">
+                <name_en>Oslo</name_en>
+                <name_rus>Осло</name_rus>
+                <population>538411</population>
+            </city>
+            <city number="2">
+                <name_en>Drammen</name_en>
+                <name_rus>Драммен</name_rus>
+                <population>57759</population>
+            </city>
+            <city number="3">
+                <name_en>Sandefjord</name_en>
+                <name_rus>Саннефьорд</name_rus>
+                <population>41897</population>
+            </city>
+        </cities>
+    </coutry>
+    <coutry number="5">
+        <name_en>Italy</name_en>
+        <name_rus>Италия</name_rus>
+        <numeric_code>39</numeric_code>
+        <currency_code>EUR</currency_code>
+        <cities>
+            <city number="1">
+                <name_en>Rome</name_en>
+                <name_rus>Рим</name_rus>
+                <population>2870493</population>
+            </city>
+            <city number="2">
+                <name_en>Milan</name_en>
+                <name_rus>Милан</name_rus>
+                <population>1331586</population>
+            </city>
+            <city number="3">
+                <name_en>Naples</name_en>
+                <name_rus>Неаполь</name_rus>
+                <population>989598</population>
+            </city>
+        </cities>
+    </coutry>
+</countries>
